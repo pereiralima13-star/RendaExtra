@@ -1,0 +1,12 @@
+body {
+    background-color: #000;
+    color: #ffff;
+}
+
+strong {
+    color: #00BFFF;
+}
+
+main img {
+    max-width: 400px;
+}
